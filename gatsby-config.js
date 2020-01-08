@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: `/ueofcweb`,
   siteMetadata: {
-    title: `No Name`,
-    description: `Website for No Name consulting services.`,
-    author: `No Name`,
+    title: `Digital Marketing Agency`,
+    description: `Website for Digital Marketing consulting services.`,
+    author: `Digital Marketing Agency`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
