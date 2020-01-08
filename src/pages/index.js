@@ -254,7 +254,7 @@ const IndexPage = () => (
       </div>
     </section>
 
-    <section className="bottom-count py-5" id="stats">
+    {/* <section className="bottom-count py-5" id="stats">
       <div className="container py-xl-5 py-lg-3">
         <div className="row">
           <div className="col-lg-5 left-img-w3ls">
@@ -305,7 +305,7 @@ const IndexPage = () => (
           </div>
         </div>
       </div>
-    </section>
+    </section> */}
 
     <section className="partners py-5" id="partners">
       <div className="container py-xl-5 py-lg-3">
