@@ -81,9 +81,11 @@ const Footer = ({}) => {
 
             <div className="copy_right mx-md-auto mb-md-0 mb-3">
               <p className="text-bl let">
-                © 2019 Runbytech. All rights reserved | Design by
+                © 2020 Digital Marketing Agency. Todos los derechos reservados |
+                Desiñado por
                 <a href="http://w3layouts.com/" target="_blank">
-                  W3layouts
+                  Digital Marketing Agency
+                  {/* Recordar cambiar URL por el actualizado */}
                 </a>
               </p>
             </div>
