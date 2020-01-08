@@ -12,7 +12,7 @@ const Header = ({ siteTitle, activeMenu }) => (
               <span className="logo mr-2">
                 <img src="/ueofcweb/src/images/icon-puple-64.png" />
               </span>
-              No Name
+              Digital Marketing Agency
             </Link>
           </h1>
         </div>
@@ -31,10 +31,10 @@ const Header = ({ siteTitle, activeMenu }) => (
               </li>
               <li>
                 <Link
-                  to="/product"
-                  className={activeMenu == "product" ? "active" : ""}
+                  to="/servicios"
+                  className={activeMenu == "servicios" ? "active" : ""}
                 >
-                  Product
+                  Servicios
                 </Link>
               </li>
               <li>
@@ -50,14 +50,14 @@ const Header = ({ siteTitle, activeMenu }) => (
                   to="/contact"
                   className={activeMenu == "contact" ? "active" : ""}
                 >
-                  Contact Us
+                  Conversemos
                 </Link>
               </li>
             </ul>
           </nav>
         </div>
 
-        <div className="d-flex mt-lg-1 mt-sm-2 mt-3 justify-content-center">
+        {/* <div className="d-flex mt-lg-1 mt-sm-2 mt-3 justify-content-center">
           <div className="search-w3layouts mr-3">
             <form
               action="#"
@@ -83,7 +83,7 @@ const Header = ({ siteTitle, activeMenu }) => (
           >
             <span className="fab fa-github"></span>
           </a>
-        </div>
+        </div> deshabilitar función de serch & link a github */}
       </div>
     </div>
   </header>
