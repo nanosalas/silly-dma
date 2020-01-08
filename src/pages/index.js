@@ -155,32 +155,29 @@ const IndexPage = () => (
       <div className="container py-xl-3 py-lg-3">
         <div className="row">
           <div className="col-lg-6 about-right-faq">
-            <h6>Product Usage Scenarios</h6>
+            <h6>Como podemos ayudarle</h6>
             <h3 className="text-da">
-              Whom we can serve with ultronele exactly?
+              ¿Quienes se pueden beneficiar de nuestros servicios?
             </h3>
             <p className="mt-4">
-              UltronEle open many possiblities for users who may want to do such
-              things but hardly to accomplish with other existing software:
+              Múltiples empresas pueden aprovechar los servicios de Digital
+              Marketing Agency:
             </p>
             <ul className="w3l-right-book mt-4">
-              <li>Small company training for new employees</li>
               <li>
-                Medium size enterpirse education platform setup with limited
-                budget
+                Grandes empresas en busqueda de incursionar en el mercadeo
+                digital
               </li>
               <li>
-                Educational institutes issue their online content without tech
-                people
+                Grandes empresas que desean aumentar la cantidad de tráfico y
+                ventas de su sitio web
               </li>
-              <li>
-                Teachers or tutors who want to create, deliver knowledge with
-                zero pain for tech{" "}
-              </li>
-              <li>
+              <li>Pymes que requieren de una presencia digital</li>
+              <li>Pymes buscando aprovechar un nuevo mercado global </li>
+              {/* <li>
                 Anyone who want to share knowledge in an acceptable and
                 innovative way{" "}
-              </li>
+              </li> */}
             </ul>
           </div>
           <div className="col-lg-6 left-wthree-img text-right">
