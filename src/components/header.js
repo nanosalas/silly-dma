@@ -10,7 +10,7 @@ const Header = ({ siteTitle, activeMenu }) => (
           <h1>
             <Link to="/">
               <span className="logo mr-2">
-                <img src="/ueofcweb/src/images/icon-puple-64.png" />
+                <img src="/ueofcweb/src/images/DM_logo.png" />
               </span>
               Digital Marketing Agency
             </Link>
