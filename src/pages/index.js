@@ -25,7 +25,7 @@ const IndexPage = () => (
             <p className="text-sty-banner">
               Le ayudamos a generar una nueva estrategia, construir campañas,
               brindando un seguimiento en tiempo real a sus KPIs consiguiendo el
-              objetivos de sus metas.
+              objetivos de sus metas
             </p>
             {/* <div className="row">
               <a
@@ -93,7 +93,7 @@ const IndexPage = () => (
         <p className="sub-tittle text-center mt-3 mb-sm-5 mb-4">
           UltronEle's mission is to build the world's fastest e-learning system
           with the lowest cost and in the most simple way, blowing is the top 3
-          features which constitute to its uniqueness and excellence.
+          features which constitute to its uniqueness and excellence
         </p>
         <div className="row about-bottom-w3l text-center mt-4">
           <div className="col-lg-4 about-grid">
@@ -189,10 +189,13 @@ const IndexPage = () => (
 
     <section className="banner-bottom-w3layouts bg-li py-5" id="services">
       <div className="container py-xl-5 py-lg-3">
-        <h3 className="tittle text-center font-weight-bold">Our Services</h3>
+        <h3 className="tittle text-center font-weight-bold">
+          Nuestros Servicios
+        </h3>
         <p className="sub-tittle text-center mt-3 mb-sm-5 mb-4">
-          UltronEle offers a minimal elearning tool and flexible services for a
-          variety of user scenarios, even if no budget or no IT knowledge.
+          Digital Marketing Agency le ofrece una variedad de servicios flexibles
+          para múltiples escenarios, sin importar los recursos técnologicos y el
+          equipo que posea
         </p>
         <div className="row pt-lg-4">
           <div className="col-lg-4 about-in text-center">
@@ -201,10 +204,12 @@ const IndexPage = () => (
                 <div className="bg-clr-w3l">
                   <span className="fa fa-wrench"></span>
                 </div>
-                <h5 className="card-title mt-4 mb-3">Free Deployment</h5>
+                <h5 className="card-title mt-4 mb-3">
+                  Consultoría y Capacitación
+                </h5>
                 <p className="card-text">
-                  We give all our clients product deployment support for free,
-                  from zero to online.
+                  Diagnóstico inicial para conocer las áreas a trabajar y
+                  desarrollar en conjunto.
                 </p>
               </div>
             </div>
@@ -215,10 +220,12 @@ const IndexPage = () => (
                 <div className="bg-clr-w3l">
                   <span className="fa fa-cogs"></span>
                 </div>
-                <h5 className="card-title mt-4 mb-3">Custom Development</h5>
+                <h5 className="card-title mt-4 mb-3">
+                  Desarrollo de Sitios Web
+                </h5>
                 <p className="card-text">
-                  We help our paid member to implement their pages and
-                  functionalities.
+                  Generarción de sitios web a la medida con lo úlitmo en
+                  técnología.
                 </p>
               </div>
             </div>
@@ -229,10 +236,10 @@ const IndexPage = () => (
                 <div className="bg-clr-w3l">
                   <span className="fa fa-user-plus"></span>
                 </div>
-                <h5 className="card-title mt-4 mb-3">On-site Work</h5>
+                <h5 className="card-title mt-4 mb-3">Paid Per Click</h5>
                 <p className="card-text">
-                  We would also like to work with clients on-site, extend
-                  ultronele to the next level.
+                  Utilice los medios de Google, Facebook, Instagram y otros más
+                  para alcanczar a nuevas audiencias.
                 </p>
               </div>
             </div>
