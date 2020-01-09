@@ -198,7 +198,7 @@ const ProductPage = () => (
               data-wow-delay="0.3s"
             >
               <div className="icon">
-                <i className="fas fa-rocket"></i>
+                <i className="fas fa-universal-access"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
@@ -220,7 +220,7 @@ const ProductPage = () => (
               data-wow-delay="0.6s"
             >
               <div className="icon">
-                <i className="fas fa-universal-access"></i>
+                <i className="fas fa-ad"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
@@ -241,7 +241,7 @@ const ProductPage = () => (
               data-wow-delay="0.9s"
             >
               <div className="icon">
-                <i className="fas fa-puzzle-piece"></i>
+                <i className="fas fa-envelope"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
@@ -263,7 +263,7 @@ const ProductPage = () => (
               data-wow-delay="1.2s"
             >
               <div className="icon">
-                <i className="fas fa-funnel-dollar"></i>
+                <i className="fas fa-puzzle-piece"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
@@ -305,7 +305,7 @@ const ProductPage = () => (
               data-wow-delay="1.8s"
             >
               <div className="icon">
-                <i className="fas fa-plug"></i>
+                <i className="fas fa-funnel-dollar"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
@@ -327,7 +327,7 @@ const ProductPage = () => (
               data-wow-delay="1.8s"
             >
               <div className="icon">
-                <i className="fas fa-wave-square"></i>
+                <i className="fas fa-briefcase"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
@@ -349,7 +349,7 @@ const ProductPage = () => (
               data-wow-delay="1.8s"
             >
               <div className="icon">
-                <i className="fas fa-certificate"></i>
+                <i className="fas fa-compass"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
@@ -370,7 +370,7 @@ const ProductPage = () => (
               data-wow-delay="1.8s"
             >
               <div className="icon">
-                <i className="fas fa-mobile-alt"></i>
+                <i className="fas fa-certificate"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
