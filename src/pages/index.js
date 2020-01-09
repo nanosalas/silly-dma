@@ -211,12 +211,12 @@ const IndexPage = () => (
                   Diagnóstico inicial para conocer las áreas a trabajar y
                   desarrollar en conjunto.
                 </p>
-                <a
-                  href="pricing.html"
+                <Link
+                  to="/servicios"
                   className="btn button-style button-style-2 mt-sm-5 mt-4 read-more"
                 >
                   Conoce más
-                </a>
+                </Link>
               </div>
             </div>
           </div>
@@ -233,12 +233,12 @@ const IndexPage = () => (
                   Generarción de sitios web a la medida con lo úlitmo en
                   técnología.
                 </p>
-                <a
-                  href="pricing.html"
+                <Link
+                  to="/servicios"
                   className="btn button-style button-style-2 mt-sm-5 mt-4 read-more"
                 >
                   Conoce más
-                </a>
+                </Link>
               </div>
             </div>
           </div>
@@ -253,12 +253,12 @@ const IndexPage = () => (
                   Utilice los medios de Google, Facebook, Instagram y otros más
                   para alcanczar a nuevas audiencias.
                 </p>
-                <a
-                  href="pricing.html"
+                <Link
+                  to="/servicios"
                   className="btn button-style button-style-2 mt-sm-5 mt-4 read-more"
                 >
                   Conoce más
-                </a>
+                </Link>
               </div>
             </div>
           </div>
