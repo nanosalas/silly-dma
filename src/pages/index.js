@@ -248,7 +248,7 @@ const IndexPage = () => (
                 <div className="bg-clr-w3l">
                   <span className="fa fa-user-plus"></span>
                 </div>
-                <h5 className="card-title mt-4 mb-3">Paid Per Click</h5>
+                <h5 className="card-title mt-4 mb-3">Pay Per Click</h5>
                 <p className="card-text">
                   Utilice los medios de Google, Facebook, Instagram y otros más
                   para alcanczar a nuevas audiencias.
