@@ -89,25 +89,25 @@ const IndexPage = () => (
 
     <div className="what bg-li py-5" id="what">
       <div className="container py-xl-5 py-lg-3">
-        <h3 className="tittle text-center font-weight-bold">Features</h3>
+        <h3 className="tittle text-center font-weight-bold">Características</h3>
         <p className="sub-tittle text-center mt-3 mb-sm-5 mb-4">
-          UltronEle's mission is to build the world's fastest e-learning system
-          with the lowest cost and in the most simple way, blowing is the top 3
-          features which constitute to its uniqueness and excellence
+          El objetivo de Digital Marketing Agency es facilitar la incursión y
+          adaptación al creciente mercado digital global. Acontinuación 3
+          principales características para aprovechar este vibrante mercado
         </p>
         <div className="row about-bottom-w3l text-center mt-4">
           <div className="col-lg-4 about-grid">
             <div className="about-grid-main">
               <img
-                src="images/gatsby_banner3.png"
+                src="images/google-facebook-instagram.jpg"
                 alt=""
                 className="img-fluid"
               />
               <div className="card-body">
-                <h4 className="my-4">Fast</h4>
+                <h4 className="my-4">Tráfico</h4>
                 <p>
-                  By the virtue of GatsbyJS, UltronEle deliver web content with
-                  an amazing speed.
+                  Nuevas comunidades disponibles para aumentar el conocimiento
+                  de sus productos / servicios
                 </p>
               </div>
               {/** <a href="about.html" class="button-w3ls btn mt-sm-5 mt-4">Read More</a> */}
@@ -116,15 +116,15 @@ const IndexPage = () => (
           <div className="col-lg-4 about-grid my-lg-0 my-5">
             <div className="about-grid-main">
               <img
-                src="images/generator_banr.png"
+                src="images/carlos-muza-hpjSkU2UYSU-unsplash.jpg"
                 alt=""
                 className="img-fluid"
               />
               <div className="card-body">
-                <h4 className="my-4">Easy</h4>
+                <h4 className="my-4">Análisis Web</h4>
                 <p>
-                  Using content generator of UltronEle, author create everything
-                  with one command.
+                  Medición, recolección y análisis de información para entender
+                  y capturar usuarios
                 </p>
               </div>
               {/** <a href="about.html" class="button-w3ls btn mt-sm-5 mt-4">Read More</a> */}
@@ -133,15 +133,15 @@ const IndexPage = () => (
           <div className="col-lg-4 about-grid">
             <div className="about-grid-main">
               <img
-                src="images/confetti_banr.png"
+                src="images/soulsana-V5DBwOOv0bo-unsplash.jpg"
                 alt=""
                 className="img-fluid"
               />
               <div className="card-body">
-                <h4 className="my-4">Funny</h4>
+                <h4 className="my-4">Optimización</h4>
                 <p>
-                  Learning could be boring, but what if youd encounter surprise
-                  and bonus in the process?{" "}
+                  Aprender sobre el comportamiento y actuar periodicamente es la
+                  llave para lograr los éxitos
                 </p>
               </div>
               {/** <a href="about.html" class="button-w3ls btn mt-sm-5 mt-4">Read More</a> */}
