@@ -37,14 +37,14 @@ const Header = ({ siteTitle, activeMenu }) => (
                   Servicios
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link
                   to="/price"
                   className={activeMenu == "price" ? "active" : ""}
                 >
                   Pricing
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link
                   to="/contact"
