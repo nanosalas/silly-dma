@@ -92,7 +92,7 @@ const IndexPage = () => (
         <h3 className="tittle text-center font-weight-bold">Características</h3>
         <p className="sub-tittle text-center mt-3 mb-sm-5 mb-4">
           El objetivo de Digital Marketing Agency es facilitar la incursión y
-          adaptación al creciente mercado digital global. Acontinuación 3
+          adaptación al creciente mercado digital global. A continuación 3
           principales características para aprovechar este vibrante mercado
         </p>
         <div className="row about-bottom-w3l text-center mt-4">
