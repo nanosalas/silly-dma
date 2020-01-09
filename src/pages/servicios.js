@@ -202,7 +202,7 @@ const ProductPage = () => (
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
-                  <a href="#">Speed</a>
+                  <a href="#">SEO</a>
                 </h3>
                 <p>
                   Leveraging the power of GatsbyJS framework, Ultronele give
@@ -224,7 +224,7 @@ const ProductPage = () => (
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
-                  <a href="#">Usability</a>
+                  <a href="#">Pay Per Click (PPC)</a>
                 </h3>
                 <p>
                   Simple and easy to use both in software deployment and content
@@ -245,7 +245,7 @@ const ProductPage = () => (
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
-                  <a href="#">Enjoyment</a>
+                  <a href="#">Email Marketing</a>
                 </h3>
                 <p>
                   Learning something unfamiliar may be not so interesting for
@@ -267,7 +267,7 @@ const ProductPage = () => (
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
-                  <a href="#">Costlessness</a>
+                  <a href="#">Branding</a>
                 </h3>
                 <p>
                   Setup and maintenance of a web application sounds like a big
@@ -288,7 +288,7 @@ const ProductPage = () => (
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
-                  <a href="#">Richness</a>
+                  <a href="#">Desarrollo Web</a>
                 </h3>
                 <p>
                   Being an elearning system, ultronele also a great CMS if not
@@ -309,7 +309,7 @@ const ProductPage = () => (
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
-                  <a href="#">Scalability</a>
+                  <a href="#">Conversion Rate Optimization (CRO)</a>
                 </h3>
                 <p>
                   By means of the plugin design from GatsbyJS, ultronele is also
@@ -331,7 +331,7 @@ const ProductPage = () => (
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
-                  <a href="#">Trackability</a>
+                  <a href="#">Auditoría en Marketing</a>
                 </h3>
                 <p>
                   Every user&#39;s learning process is recorded as learning path
@@ -353,7 +353,7 @@ const ProductPage = () => (
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
-                  <a href="#">Achievability</a>
+                  <a href="#">Consultoría en Marketing</a>
                 </h3>
                 <p>
                   Ultronele is designed to encourage reader to walk through all
@@ -374,7 +374,7 @@ const ProductPage = () => (
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
-                  <a href="#">Mobility</a>
+                  <a href="#">Capacitación Empresarial</a>
                 </h3>
                 <p>
                   For Ultronele administrator, authoring content and seeing the
