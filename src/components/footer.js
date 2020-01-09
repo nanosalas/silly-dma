@@ -82,7 +82,7 @@ const Footer = ({}) => {
             <div className="copy_right mx-md-auto mb-md-0 mb-3">
               <p className="text-bl let">
                 © 2020 Digital Marketing Agency. Todos los derechos reservados |
-                Desiñado por
+                Desiñado por{" "}
                 <a href="http://w3layouts.com/" target="_blank">
                   Digital Marketing Agency
                   {/* Recordar cambiar URL por el actualizado */}
