@@ -178,12 +178,16 @@ const ProductPage = () => (
       <div className="container">
         <div className="section-header text-center">
           <h2 className="section-title wow fadeInDown" data-wow-delay="0.3s">
-            Product Features
+            Nuestros Servicios
           </h2>
           <p className="sub-tittle text-center mt-3 mb-sm-5 mb-4">
-            Ultronele&#39;s desire is to be a revolutionary elearning product
-            featured with Speed, Usability, Enjoyment, Costlessness, Richness,
-            Scalability, all these goals are reachable in the same time.
+            Encontrar el socio adecuado de Marketing Digital es un gran desafío.
+            Nos centramos en nuestro trabajo ofreciendo servicios de
+            diagnósticos, consultoría, generación de estrategias digitales y
+            desarrollo de sitios web de manera personalizada. Le ayudamos a
+            crear una presencia digital que atraiga a sus clientes y su público
+            objetivo. Todo esto de acuerdo al alineamiento de sus metas y
+            objetivos.
           </p>
         </div>
         <div className="row">
