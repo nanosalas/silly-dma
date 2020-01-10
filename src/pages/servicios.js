@@ -198,7 +198,7 @@ const ProductPage = () => (
               data-wow-delay="0.3s"
             >
               <div className="icon">
-                <i className="fas fa-universal-access"></i>
+                <i className="fas fa-search"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
@@ -370,7 +370,7 @@ const ProductPage = () => (
               data-wow-delay="1.8s"
             >
               <div className="icon">
-                <i className="fas fa-certificate"></i>
+                <i className="fas fa-hands-helping"></i>
               </div>
               <div className="services-content">
                 <h3 className="feature-title">
