@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: `/ueofcweb`,
   siteMetadata: {
     title: `Digital Marketing Agency`,
-    description: `Website for Digital Marketing consulting services.`,
+    description: `Website for Digital Marketing consulting services`,
     author: `Digital Marketing Agency`,
   },
   plugins: [
