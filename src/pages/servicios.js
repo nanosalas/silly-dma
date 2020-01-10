@@ -389,7 +389,7 @@ const ProductPage = () => (
       </div>
     </section>
 
-    <div className="about-inner py-5">
+    {/* <div className="about-inner py-5">
       <div className="container pb-xl-5 pb-lg-3">
         <div className="row py-xl-4">
           <div className="col-lg-4 welcome-right mb-lg-0 mb-5"></div>
@@ -489,7 +489,7 @@ const ProductPage = () => (
           </li>
         </ul>
       </div>
-    </div>
+    </div> */}
   </Layout>
 )
 
