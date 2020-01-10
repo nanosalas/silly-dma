@@ -99,7 +99,7 @@ const IndexPage = () => (
           <div className="col-lg-4 about-grid">
             <div className="about-grid-main">
               <img
-                src="images/google-facebook-instagram.jpg"
+                src="images/ryoji-iwata-IBaVuZsJJTo-unsplash.jpg"
                 alt=""
                 className="img-fluid"
               />
@@ -107,7 +107,7 @@ const IndexPage = () => (
                 <h4 className="my-4">Tráfico</h4>
                 <p>
                   Nuevas comunidades disponibles para aumentar el conocimiento
-                  de sus productos / servicios
+                  de sus productos y servicios
                 </p>
               </div>
               {/* <a href="about.html" class="button-w3ls btn mt-sm-5 mt-4">Read More</a> */}
