@@ -32,7 +32,7 @@ const ContactPage = () => (
           </div>
           <div className="col-lg-6 mt-lg-0 mt-5">
             <div className="contact-top1">
-              <form action="#" method="post" className="contact-wthree-do">
+              <form name="contact" action="#" method="post" data-netlify="true" className="contact-wthree-do">
                 <div className="form-group">
                   <div className="row">
                     <div className="col-md-6">
