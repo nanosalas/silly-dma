@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 
 const ContactPage = () => (
   <Layout activeMenu="contact">
-    <SEO title="Contact" />
+    <SEO title="Gracias" />
 
     <div className="banner_w3lspvt-2">
       <ol className="breadcrumb">
