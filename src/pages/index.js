@@ -205,11 +205,10 @@ const IndexPage = () => (
                   <span className="fa fa-wrench"></span>
                 </div>
                 <h5 className="card-title mt-4 mb-3">
-                  Consultoría y Capacitación
+                  Análisis de Mercados
                 </h5>
                 <p className="card-text">
-                  Diagnóstico inicial para conocer las áreas a trabajar y
-                  desarrollar en conjunto.
+                  Obtenga información relevante sobre competidores, industría. Aumentando efectividad y ROI.
                 </p>
                 <Link
                   to="/servicios"
@@ -227,11 +226,11 @@ const IndexPage = () => (
                   <span className="fa fa-cogs"></span>
                 </div>
                 <h5 className="card-title mt-4 mb-3">
-                  Desarrollo de Sitios Web
+                  Pay Per Click
                 </h5>
                 <p className="card-text">
-                  Generarción de sitios web a la medida con lo úlitmo en
-                  técnología.
+                  Utilice los medios de Google, Facebook, Instagram y otros más
+                  para alcanczar a nuevas audiencias.
                 </p>
                 <Link
                   to="/servicios"
@@ -248,10 +247,10 @@ const IndexPage = () => (
                 <div className="bg-clr-w3l">
                   <span className="fa fa-user-plus"></span>
                 </div>
-                <h5 className="card-title mt-4 mb-3">Pay Per Click</h5>
+                <h5 className="card-title mt-4 mb-3">Consultoría y Capacitación</h5>
                 <p className="card-text">
-                  Utilice los medios de Google, Facebook, Instagram y otros más
-                  para alcanczar a nuevas audiencias.
+                  Diagnóstico inicial para conocer las áreas a trabajar y
+                  desarrollar en conjunto.
                 </p>
                 <Link
                   to="/servicios"
